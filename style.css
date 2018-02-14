@@ -17,3 +17,29 @@
   background: Ivory;
   margin: 10px 50px 10px 50px;
 }
+
+.left {
+  float: left;
+  width: 300px;
+  padding-top: 10px;
+}
+
+.center {
+  margin-left: 300px;
+  margin-right: 300px;
+  width: 300px;
+  padding-top: 10px;
+}
+
+.right {
+  float: right;
+  width: 300px;
+  padding-top: 10px;
+}
+
+#navBar a {
+  font-family: Open Sans;
+  color: DarkBlue;
+  margin-left: 40px;
+  margin-right: 40px;
+}
