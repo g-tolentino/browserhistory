@@ -17,3 +17,14 @@
   background: Ivory;
   margin: 10px 50px 10px 50px;
 }
+
+div {
+  column-count: 3;
+  column-width: 300px;
+  column-fill: auto;
+}
+
+.divNav {
+  column-count: 4;
+  column-gap: 40px;
+}
